@@ -62,7 +62,7 @@ Este é um projeto de uma loja virtual simples desenvolvido em PHP, como parte d
         -   **Usuário:** `admin`
         -   **Senha:** `admin123`
     -   **Cliente:**
-        -   **Email:** `cliente@example.com`
+        -   **Email:** `cliente`
         -   **Senha:** `cliente123`
 
 Após o login, você será redirecionado para a área do cliente ou para o painel de administração, dependendo das credenciais utilizadas.
