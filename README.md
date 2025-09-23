@@ -23,6 +23,7 @@ Este é um projeto de uma loja virtual simples desenvolvido em PHP, como parte d
 -   MySQL
 -   HTML
 -   CSS
+-   JavaScript
 
 ## Como Configurar e Executar o Projeto
 
