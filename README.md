@@ -1,4 +1,4 @@
-# Loja Virtual em PHP
+# Loja Virtual
 
 Este é um projeto de uma loja virtual simples desenvolvido em PHP, como parte de um trabalho acadêmico.
 
